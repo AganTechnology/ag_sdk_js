@@ -1,0 +1,13 @@
+{
+  "name": "ag_sdk_js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "src/"
+  ],
+  "scripts": {
+  },
+  "optionalDependencies": {
+  }
+}
